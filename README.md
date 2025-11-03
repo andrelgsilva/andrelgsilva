@@ -33,9 +33,9 @@ Busco constantemente aprender e aplicar meus conhecimentos em projetos práticos
 
 * Desenvolvimento front-end com React
 
-*Criação de aplicações integrando hardware e software
+* Criação de aplicações integrando hardware e software
 
-*Aprimoramento em arquitetura e boas práticas de código
+* Aprimoramento em arquitetura e boas práticas de código
 
 ---
 
