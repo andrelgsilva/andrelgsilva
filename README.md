@@ -24,9 +24,8 @@ Busco constantemente aprender e aplicar meus conhecimentos em projetos práticos
 
 ### Projetos em destaque
 
-* [**Alerta Urbano**](link): plataforma web e mobile para reportar problemas urbanos e conectar cidadãos com instituições.
-* [**Robô Educacional**](link): projeto com dois Arduínos Mega voltado ao ensino de robótica para o ensino fundamental.
-* [**Aplicativo ODS**](link): app criado em equipe com foco na conscientização sobre desperdício de água.
+* [**Alerta Urbano**](https://github.com/ailtu/AlertaUrbano): plataforma web e mobile para reportar problemas urbanos e conectar cidadãos com instituições.
+* [**Robô Educacional**](https://github.com/amand4priscil4/EDU-ARDU-WA): projeto com dois Arduínos Mega voltado ao ensino de robótica para o ensino fundamental.
 
 ---
 
@@ -42,9 +41,9 @@ Busco constantemente aprender e aplicar meus conhecimentos em projetos práticos
 
 ### Onde me encontrar
 
-**E-mail:** [seuemail@gmail.com](mailto:seuemail@gmail.com)
-**LinkedIn:** [linkedin.com/in/seunome](#)
-**Portfólio:** [seusite.dev](#)
+**E-mail:** [andrelmss.gomes021@gmail.com](mailto:andrelmss.gomes021@gmail.com)
+**LinkedIn:** [linkedin.com/in/andre-da-silva](#https://linkedin.com/in/andré-da-silva-623875229)
+**Portfólio:** [meusite.dev](#https://github.com/andrelgsilva/my-web-page)
 
 ---
 
